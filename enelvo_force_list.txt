@@ -1,0 +1,31 @@
+phisalia, physalia
+pysalia, physalia
+phisalis, physalis
+physali, physalis
+p.physalis, physalia physalis
+aguaviva, água viva
+água_viva, água viva
+água-viva, água viva
+aguasvivas, águas vivas
+água-vivas, águas vivas
+bh, belo horizonte
+slz, são luis
+saoluis, são luis
+saoluisma, são luis maranhão
+ivaipora, ivaiporã
+atibaiasp, atibaia são paulo
+floripasc, florianópolis santa catarina
+floripa, florianópolis
+sc, santa catarina
+sfs, são francisco do sul
+sãochico, são francisco do sul
+penhasc, penha santa catarina
+itapemasc, itapema santa catarina
+meiapraia, meia praia
+praiagrande, praia grande
+sãopaulo, são paulo
+baurusp, bauru são paulo
+natalrn, natal rio grande do norte
+minasgerais, minas gerais
+cuiabamt, cuiaba mato grosso
+recifepe, recife pernambuco
